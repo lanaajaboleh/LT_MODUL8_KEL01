@@ -1,0 +1,15 @@
+C:\Users\Rafdan Maulana\source\repos\GUI_REAL\GUI_REAL\obj\Debug\GUI_REAL.vbproj.AssemblyReference.cache
+C:\Users\Rafdan Maulana\source\repos\GUI_REAL\GUI_REAL\obj\Debug\GUI_REAL.Form1.resources
+C:\Users\Rafdan Maulana\source\repos\GUI_REAL\GUI_REAL\obj\Debug\GUI_REAL.Resources.resources
+C:\Users\Rafdan Maulana\source\repos\GUI_REAL\GUI_REAL\obj\Debug\GUI_REAL.vbproj.GenerateResource.cache
+C:\Users\Rafdan Maulana\source\repos\GUI_REAL\GUI_REAL\obj\Debug\GUI_REAL.vbproj.CoreCompileInputs.cache
+C:\Users\Rafdan Maulana\source\repos\GUI_REAL\GUI_REAL\bin\Debug\GUI_REAL.exe.config
+C:\Users\Rafdan Maulana\source\repos\GUI_REAL\GUI_REAL\bin\Debug\GUI_REAL.exe
+C:\Users\Rafdan Maulana\source\repos\GUI_REAL\GUI_REAL\bin\Debug\GUI_REAL.pdb
+C:\Users\Rafdan Maulana\source\repos\GUI_REAL\GUI_REAL\bin\Debug\GUI_REAL.xml
+C:\Users\Rafdan Maulana\source\repos\GUI_REAL\GUI_REAL\obj\Debug\GUI_REAL.vbproj.CopyComplete
+C:\Users\Rafdan Maulana\source\repos\GUI_REAL\GUI_REAL\obj\Debug\GUI_REAL.exe
+C:\Users\Rafdan Maulana\source\repos\GUI_REAL\GUI_REAL\obj\Debug\GUI_REAL.xml
+C:\Users\Rafdan Maulana\source\repos\GUI_REAL\GUI_REAL\obj\Debug\GUI_REAL.pdb
+C:\Users\Rafdan Maulana\source\repos\GUI_REAL\GUI_REAL\bin\Debug\TempConvTugas.dll
+C:\Users\Rafdan Maulana\source\repos\GUI_REAL\GUI_REAL\bin\Debug\TempConvTugas.pdb
